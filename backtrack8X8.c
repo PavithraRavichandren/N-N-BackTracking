@@ -9,7 +9,7 @@ int main()
 	short l,m;
     short i,j,column,count,label=1,bti,btc;
 	int choice;
-	printf("asdasda");
+	printf("Git Testing");
 	printf("\n*****************************************************************8X8 QUEEN's PROBLEM*****************************************************************\n\n");
 	printf("Place 8 QUEEN in the board such that no queen should attack each other in any ways.");
 	printf("\nNOTE!! The position value should always be less than 9 since it is a 8X8 CHESS Board.\n");
